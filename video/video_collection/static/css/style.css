@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(244, 247, 231);
+    font-size: large;
+}
+
+.navigation {
+    margin: 10px;
+}
+
+.navigation > a {
+    color: rgb(0, 12, 100);
+    padding-right: 30px;
+}
+.btn{
+    color: rgba(21, 22, 23, 0.934);
+    padding-right: 40px;
+    margin: 15px;
+
+}
